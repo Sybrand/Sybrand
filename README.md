@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Maybe you wanted to get here: http://sybrand.github.io/
+
 <!--
 **Sybrand/Sybrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
